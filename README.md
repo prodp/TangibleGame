@@ -1,3 +1,4 @@
 # TangibleGame
 
-Contributors: Mike Bardet, Diana Petrescu, Loic Schurch
+## Contributors 
+Mike Bardet, Diana Petrescu, Loic Schurch
